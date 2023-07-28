@@ -1,0 +1,5 @@
+*.go
+*.exe
+*.env
+*.mod
+*.sum
